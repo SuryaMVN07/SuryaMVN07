@@ -1,54 +1,24 @@
-# Hi there! 👋
+# Professional Profile
 
 ## About Me
+Hello! I'm SuryaMVN07, a passionate developer with a background in creating software solutions that meet the needs of clients and users. I'm dedicated to continuous learning and improvement, always looking to enhance my skills and knowledge in the tech field.
 
-I'm **Surya**, a passionate software developer with a love for coding and technology. I enjoy building innovative solutions and learning new skills in the ever-evolving tech landscape.
+## Skills
+- Programming Languages: JavaScript, Python, Java
+- Frameworks: React, Node.js, Django
+- Tools: Git, Docker, Jenkins
+- Databases: PostgreSQL, MongoDB
+- Soft Skills: Problem-solving, Team collaboration, Communication
 
-## 🎯 What I Do
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuryaMVN07&show_icons=true&hide_title=true)
 
-- Building full-stack web applications
-- Solving complex problems with clean code
-- Contributing to open-source projects
-- Exploring new technologies and frameworks
+## Projects
+- **Project A**: Description of Project A.
+- **Project B**: Description of Project B.
+- **Project C**: Description of Project C.
 
-## 🛠️ Skills
-
-**Languages:**  
-`JavaScript` • `Python` • `Java` • `C++`
-
-**Frontend:**  
-`React` • `HTML5` • `CSS3` • `Redux`
-
-**Backend:**  
-`Node.js` • `Express` • `REST APIs`
-
-**Database:**  
-`MySQL` • `MongoDB`
-
-**Tools & Platforms:**  
-`Git` • `Docker` • `VS Code`
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuryaMVN07&show_icons=true&theme=radical)
-
-## 🎓 Currently Learning
-
-- Advanced system design
-- Cloud technologies (AWS, Azure)
-- Machine Learning fundamentals
-
-## 💼 Featured Projects
-
-- **[Project Name](https://github.com/SuryaMVN07/project-name)** - Brief description
-- **[Another Project](https://github.com/SuryaMVN07/another-project)** - Brief description
-
-## 📫 Get In Touch
-
-- **Email**: your-email@example.com
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-
----
-
-⭐ Feel free to explore my repositories and don't hesitate to reach out. I'm always excited to collaborate on interesting projects!
+## Contact Information
+- Email: suryamvn07@example.com
+- LinkedIn: [SuryaMVN07](https://www.linkedin.com/in/suryamvn07)
+- Twitter: [@SuryaMVN07](https://twitter.com/SuryaMVN07)
