@@ -1,32 +1,21 @@
-# Hi there! 👋
+# Hi there! 👋 I’m Surya MVN
 
-## About Me
-Hello! I'm **SuryaMVN07**, a passionate developer with a background in creating software solutions that meet the needs of clients and users. I'm dedicated to continuous learning and improvement, always looking to enhance my skills and knowledge in the tech field.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuryaMVN07&show_icons=true&theme=radical)
 
-## Skills
-- **Programming Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, Jenkins
-- **Databases**: PostgreSQL, MongoDB
-- **Soft Skills**: Problem-solving, Team collaboration, Communication
+## 🌟 Featured Projects
+| Project Name | Description | Link |
+|--------------|-------------|------|
+| Project 1    | A cool project that does X | [View Project](https://github.com/SuryaMVN07/project1) |
+| Project 2    | Another great project for Y | [View Project](https://github.com/SuryaMVN07/project2) |
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuryaMVN07&show_icons=true&hide_title=true)
+## 🛠 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-%E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
-## Projects
-- **Project A**: Description of Project A.
-- **Project B**: Description of Project B.
-- **Project C**: Description of Project C.
+## 📫 Contact Me
+You can reach me through:
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
 
-## 🌐 Portfolio
-Check out my complete portfolio and projects at: **[My Portfolio](https://suryaportfolio-9aex.onrender.com)**
-
-## Contact Information
-- **Email**: suryamvn07@example.com
-- **LinkedIn**: [SuryaMVN07](https://www.linkedin.com/in/suryamvn07)
-- **Twitter**: [@SuryaMVN07](https://twitter.com/SuryaMVN07)
-- **Portfolio**: [https://suryaportfolio-9aex.onrender.com](https://suryaportfolio-9aex.onrender.com)
-
----
-
-⭐ Feel free to explore my repositories and don't hesitate to reach out. I'm always excited to collaborate on interesting projects!
+![Footer](https://img.shields.io/badge/Let's Connect!-%23FF5722.svg?style=flat&logo=twitter&logoColor=white)
