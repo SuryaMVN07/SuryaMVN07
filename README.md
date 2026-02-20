@@ -118,14 +118,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SuryaMVN07/SuryaMVN07/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 🌏 Vision
 
 > Building intelligent systems that merge AI innovation with scalable full-stack engineering — aiming to contribute to impactful global technology ecosystems.
