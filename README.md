@@ -1,7 +1,7 @@
 <h1 align="center">👋 こんにちは, I'm <span style="color:#00F7FF">M.V.N. Surya</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Enthusiast;FULL+STACK+DEVELPOER;NLP+%26+Data+Science+Explorer;JAVA+DEVELOPER" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELPOER;JAVA+DEVELOPER;AI+%7C+ML+Enthusiast;NLP+%26+Data+Science+Explorer" />
 </p>
 
 <p align="center">
