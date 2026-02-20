@@ -1,7 +1,7 @@
 <h1 align="center">👋 こんにちは, I'm <span style="color:#00F7FF">M.V.N. Surya</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;JAVA DEVELOPER;AI+%7C+ML+Enthusiast;NLP+%26+Data+Science+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;JAVA+DEVELOPER;AI+%7C+ML+Enthusiast;NLP+%26+Data+Science+Explorer" />
 </p>
 
 <p align="center">
@@ -61,10 +61,9 @@
 
 ## 💼 Internships
 
-🔹 SERV Crust – 8 Weeks
-🔹 Frontend Developer – AizuCoin (2.5 Months)
-🔹 Intern – CRRAO AIMSCS
-
+🔹 SERV Crust – 8 Weeks <br>
+🔹 Frontend Developer – AizuCoin (2.5 Months) <br>
+🔹 Intern – CRRAO AIMSCS <br>
 ---
 
 ## 🛠 Tech Stack
@@ -97,11 +96,11 @@
 
 ## 🏆 Certifications
 
-🎖 ISRO – AI/ML for Geodata Analysis
-🎖 Google AI Essentials – Coursera
-🎖 AI Building LLMs – Udemy
-🎖 Full Stack Developer – Udemy
-🎖 Programming with Python – Simplilearn
+🎖 ISRO – AI/ML for Geodata Analysis <br>
+🎖 Google AI Essentials – Coursera <br>
+🎖 AI Building LLMs – Udemy <br>
+🎖 Full Stack Developer – Udemy <br>
+🎖 Programming with Python – Simplilearn <br>
 🎖 R Programming – Udemy
 
 ---
@@ -132,7 +131,7 @@
 > Building intelligent systems that merge AI innovation with scalable full-stack engineering — aiming to contribute to impactful global technology ecosystems.
 
 ---
-
+<h3>ありがとうございます。Thank you! </h3>
 <p align="center">
-✨ <b>Code. Build. Improve. Repeat.</b> ✨
+<h2>✨ <b>Code. Build. Improve. Repeat.</b> ✨</h2>
 </p>
