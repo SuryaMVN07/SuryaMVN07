@@ -1,12 +1,18 @@
 <h1 align="center">👋 こんにちは, I'm <span style="color:#00F7FF">M.V.N. Surya</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELPOER;JAVA+DEVELOPER;AI+%7C+ML+Enthusiast;NLP+%26+Data+Science+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;JAVA DEVELOPER;AI+%7C+ML+Enthusiast;NLP+%26+Data+Science+Explorer" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SuryaMVN07&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/SuryaMVN07?label=Followers&style=social" />
+</p>
+
+<p align="center">
+  <a href="https://suryaportfolio-9aex.onrender.com/">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
 </p>
 
 ---
@@ -109,6 +115,14 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuryaMVN07&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SuryaMVN07/SuryaMVN07/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
