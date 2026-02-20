@@ -101,8 +101,8 @@
 🎖 AI Building LLMs – Udemy <br>
 🎖 Full Stack Developer – Udemy <br>
 🎖 Programming with Python – Simplilearn <br>
-🎖 R Programming – Udemy
-
+🎖 R Programming – Udemy <br>
+🎖 Java with data Structures - Udemy
 ---
 
 ## 📊 GitHub Analytics
