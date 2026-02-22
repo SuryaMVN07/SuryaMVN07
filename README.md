@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-🎓 **B.Tech CSE (Data Science)** | JNTU (2022–2026)
+🎓 **B.Tech CSE (Data Science)** | CRRAO AIMSCS (2022–2026)
 📊 **CGPA:** 8.0
 💡 Passionate about AI, Machine Learning, NLP & Full Stack Systems
 ⚙️ Love building real-world scalable applications
